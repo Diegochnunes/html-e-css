@@ -5,6 +5,7 @@ body {
     background-image:linear-gradient(to right,white,yellow);
     text-align: center;
     box-shadow: 5px 3px 7px black;
+    background-size: auto
 
 }
  p{
